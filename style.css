@@ -1,0 +1,25 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  color: purple;
+  font: italic;
+  font-weight: 300;
+}
+
+h2 {
+  color: purple;
+  font-weight: 500;
+}
+
+.image {
+  height: 300px;
+  width: 300px;
+}
+
+p {
+  size: 30px;
+  text-align: start;
+  margin: auto;
+}
